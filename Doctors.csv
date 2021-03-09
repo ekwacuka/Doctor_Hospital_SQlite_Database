@@ -1,0 +1,6 @@
+DOCTOR_ID,DOCTOR_NAME,EMAIL,HOSPITAL_ID,DATE_JOINED,SPECIALITY,SALARY,EXPERIENCE
+100,Antony Willies,antonyw@yahoo.com,1,7/7/2018,Family medicine,120000,8
+121,Emily Kimani,emilyw@hotmail.com,5,9/6/2000,Gynaecologist,130000,15
+143,Leeny  Jones,leenyj@outlook.com,4,11/18/2010,Dermatologist,135000,5
+156,Medrine Njuguna,mednju@gmail.com,3,5/24/2015,Neurosurgeon,180000,13
+234,Mary Walker,marywalker@yahoo.com,2,1/24/2006,Internal Medicine,145000,10
